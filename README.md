@@ -9,6 +9,7 @@ Follow these steps:
   4) Copy all answers(only answers ex: [1]-D ....) from the pdfs provided (refer to the same test name).
   5) Start Extension fill the details : paste answers, number of questions(30 or 100), starting question number, and time to wait after marking each answer.
   6) Click Start and watch the extension do the rest.
+
 This extension runs in background which means you can do whatever you like till it gives the test. It can complete the test in 10 seconds but for your satisfaction you can make it wait after every answer.
 
 
