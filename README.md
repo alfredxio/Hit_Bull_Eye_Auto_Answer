@@ -1,4 +1,4 @@
-# Hit_Bull_Eye_Auto_Answer
+# Hit Bull Eye Auto Answer Bot
 A chrome extension that will assist you in answering all HitBullEye answers in seconds.
 
 This project contains two extensions one to block popup and open the same as a new tab and the other is the main chrome extension that auto answers HitsBullEye answers.
